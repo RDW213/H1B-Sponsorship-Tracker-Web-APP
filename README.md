@@ -1,5 +1,4 @@
 # H1B-Sponsorship-Tracker-Web-APP
-H1B-Sponsorship-Tracker-Web-APP
 Data Source
 United States Department of Labor (DOL) website - http://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis
 
