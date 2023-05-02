@@ -22,4 +22,7 @@ Build a search bar for inputs Inputs -> job title, location, company Add filters
 
 Screenshot of the Application:
 
+
+![H1B](https://user-images.githubusercontent.com/100045417/235729476-d0938bfe-2fb5-409d-bfe7-32e03fd14710.png)
+
 Interface Implemented by TOP GUN Team
